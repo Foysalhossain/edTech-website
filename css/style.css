@@ -1,3 +1,15 @@
 .overlay {
     filter: brightness(50%);
 }
+
+.price-color {
+    color: #289BDE;
+}
+
+.card-head-color {
+    color: #4A4A4A;
+}
+
+.explore-bg {
+    background-color: #F4FAFD;
+}
